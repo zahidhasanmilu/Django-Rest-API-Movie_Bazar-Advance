@@ -18,7 +18,7 @@ pipenv shell
 
 ### Navigate to the Project Directory
 ```bash
-cd Movie_Bazar
+cd Django-Rest-API-Movie_Bazar-Advance
 ```
 
 ### Install Required Dependencies
