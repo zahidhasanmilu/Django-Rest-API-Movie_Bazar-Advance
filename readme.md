@@ -32,17 +32,16 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-### Access the Admin Panel
+### Access the site
 Open your browser and go to:
 ```
-http://127.0.0.1:8000/admin/
+http://127.0.0.1:8000/
 ```
 
 ### Admin Panel Login
 ```
 Use the superuser credentials to log in.
-- Username: admin
-<!-- - Password: #A123 --> - Not Now -Please Create your account
+
 ```
 
 ## Features
